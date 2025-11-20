@@ -24,7 +24,7 @@ Automated YouTube video processing with AI-generated titles, descriptions, and D
 ---
 
 💡 *Always learning, always building*
-## Hi there 👋
+
 
 <!--
 **kaough/kaough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
